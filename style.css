@@ -1,5 +1,5 @@
 h1, h2 {
-    color: #8a2eb2;
+    color: #9b562e;
 }
 li {
     color: #23a3f0;
@@ -8,4 +8,46 @@ li {
 #picture {
     width: "200px";
     height:"200px";
+}
+
+p {
+    color: #000;
+}
+
+body {
+    background-color: rgb(146, 212, 243);
+}
+
+.box {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 150px;
+    background-color: #ddd;
+    border: solid #555;
+    display: block;
+    float: left; 
+}
+
+.container {
+    clear: both;
+}
+.logo {
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    padding: 10px 0 10px 10px;
+}
+
+#contact {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#social {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#picture {
+    border: solid #555;
 }
