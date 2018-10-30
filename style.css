@@ -4,3 +4,8 @@ h1, h2 {
 li {
     color: #23a3f0;
 }
+
+#picture {
+    width: "200px";
+    height:"200px";
+}
